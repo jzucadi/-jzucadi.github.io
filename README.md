@@ -1,2 +1,2 @@
-# jameszaccardo-github.io
+# jameszaccardo.github.io
 personal website
