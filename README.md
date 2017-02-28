@@ -1,5 +1,5 @@
-James Zaccardo
-415.465.9458
-jameszaccardo@gmail.com
-github.com/jzucadi
+James Zaccardo<br />
+415.465.9458<br />
+jameszaccardo@gmail.com<br />
+github.com/jzucadi<br />
 codepen.io/figaro/
