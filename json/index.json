@@ -1,67 +1,18 @@
 {
-  "entries": [
-    {
-      "key": 1,
-      "name": "Avalara",
-      "details": "Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.",
-      "tools": "Javascript, ES6, Composer, Vue, PHP, Wordpress",
-      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/dd.dc6dfad.png",
-      "link": "https://www.avalara.com/"
-    },
-    {
-      "key": 2,
-      "name": "Georgetown University",
-      "details": "Developed graduate school website and custom CMS for faculty use. Created REST APIs solutions for online course portals.",
-      "tools": "Javascript, PHP, Django, MySQL, CSS, LESS, Python",
-      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/gu.c9df2ce.png",
-      "link": "https://scs.georgetown.edu/"
-    },
-    {
-      "key": 3,
-      "name": "Joyable",
-      "details": "Developed custom React components and GraphQL integration for website redesign",
-      "tools": "Javascript, ES6, React, SCSS, Pug, MongoDB, GraphQL",
-      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/joy.c765b95.png",
-      "link": "https://www.joyable.com/"
-    },
-    {
-      "key": 4,
-      "name": "Plastiq",
-      "details": "Developed custom Angular components for customer login and administrative dashboard. Designed prototypes and created interactive digital styleguide",
-      "tools": "Javascript, ES6, Angular, MongoDB, PostCSS, Python",
-      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/pl.d6528b9.png",
-      "link": "https://www.plastiq.com/"
-    },
-    {
-      "key": 5,
-      "name": "Promundo",
-      "details": "Developed website redesign and custom REST APIs. Created node, jquery, and PHP plugins.",
-      "tools": "Javascript, PHP, Drupal, SCSS",
-      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/pr.fd4f50b.png",
-      "link": "http://promundoglobal.org/"
-    },
-    {
-      "key": 6,
-      "name": "German Marshall Fund",
-      "details": "Developed website redesign and created online digital style guide. Created node, jquery, and PHP plugins.",
-      "tools": "Javascript, CSS, PHP, Drupal, Python",
-      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/gmf.526d99d.png",
-      "link": "http://gmfus.org/"
-    },
-    {
-      "key": 7,
-      "name": "Montreal Jazz Festival",
-      "details": "Developed website redesign and created online digital style guide. Created node, jquery, and PHP plugins.",
-      "tools": "Javascript, CSS, PHP, Drupal, Python",
-      "screen": "https://zaccardo.surge.sh/img/j.png",
-      "link": "https://www.montrealjazzfest.com/"
-    },
-    {
-      "key": 8,
-      "name": "fishtripr",
-      "details": "Developed website redesign and created online digital style guide. Created node, jquery, and PHP plugins.",
-      "tools": "Javascript, CSS, PHP, Drupal, Python",
-      "screen": "https://fishtripr-prod-offer-pics.s3.eu-west-3.amazonaws.com/partners/5a86f4f05a298f7384391939/offers/15085380/cover.jpeg",
-      "link": "https://www.montrealjazzfest.com/"
-    }
+    "entries": [
+        {
+          "name": "Avalara",
+          "details": "Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.",
+          "tools": "Javascript, ES6, Composer, Vue, PHP, Wordpress",
+          "screen": "http://james-zaccardo.surge.sh/_nuxt/img/dd.dc6dfad.png",
+          "link": "https://www.avalara.com/"
+        },
+        {
+          "name": "Georgetown University",
+          "details": "Developed graduate school website and custom CMS for faculty use. Created REST APIs solutions for online course portals.",
+          "tools": "Javascript, PHP, Django, MySQL, CSS, LESS, Python",
+          "screen": "http://james-zaccardo.surge.sh/_nuxt/img/gu.c9df2ce.png",
+          "link": "https://scs.georgetown.edu/"
+        }
+]
 }
