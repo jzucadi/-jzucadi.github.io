@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "name": "Avalara",
+      "details": "Developed US, UK, and Indian website portals. Redesigned development workflow to handle legacy refractoring and unit testing. Created node, jquery, and PHP plugins.",
+      "tools": "Javascript, ES6, Composer, Vue, PHP, Wordpress",
+      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/dd.dc6dfad.png",
+      "link": "https://www.avalara.com/"
+    },
+    {
+      "name": "Georgetown University",
+      "details": "Developed graduate school website and custom CMS for faculty use. Created REST APIs solutions for online course portals.",
+      "tools": "Javascript, PHP, Django, MySQL, CSS, LESS, Python",
+      "screen": "http://james-zaccardo.surge.sh/_nuxt/img/gu.c9df2ce.png",
+      "link": "https://scs.georgetown.edu/"
+    }
+  ]
+}
